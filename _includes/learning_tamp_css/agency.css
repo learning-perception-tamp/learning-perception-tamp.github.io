@@ -374,7 +374,7 @@ fieldset[disabled] .btn-xl.active {
     bottom: 0;
     left: 0;
     right: 0;
-    background: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg.jpg');
+    background: url('{{ site.baseurl }}/css/learning_tamp_style/img/header-bg.jpg');
     /* background-size: 100%; */
     background-repeat: none;
     background-size: cover;
@@ -392,7 +392,7 @@ header {
     text-align: center;
     color: # {{ site.data.template.color.primary }};
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg-transparent.jpg');
+    background-image: url('{{ site.baseurl }}/css/learning_tamp_style/img/header-bg-transparent.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -527,7 +527,7 @@ header .section-heading {
 /* 	text-align: center; */
 /* 	color: # {{ site.data.template.color.primary }}; */
 /* 	background-attachment: scroll; */
-/* 	background-image: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg-transparent.jpg'); */
+/* 	background-image: url('{{ site.baseurl }}/css/learning_tamp_style/img/header-bg-transparent.jpg'); */
 /* 	background-position: center center; */
 /* 	background-repeat: none; */
 /* 	-webkit-background-size: cover; */
@@ -900,7 +900,7 @@ aside.clients img {
 
 section#contact {
     /* background-color: #222; */
-    /* background-image: url('{{ site.baseurl }}/css/teros_2022_style/img/map-image.png'); */
+    /* background-image: url('{{ site.baseurl }}/css/learning_tamp_style/img/map-image.png'); */
     background-position: center;
     background-repeat: no-repeat;
 }

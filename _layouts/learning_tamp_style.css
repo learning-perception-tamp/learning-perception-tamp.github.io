@@ -1,0 +1,3 @@
+{% include learning_tamp_css/bootstrap.min.css %}
+{% include learning_tamp_css/agency.css %}
+{{ content }}

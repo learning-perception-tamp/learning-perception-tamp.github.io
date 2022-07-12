@@ -1,0 +1,26 @@
+- name: Xiaolin Fang
+  profile_image: xiaolin_fang.jpg
+  email: xiaolinf [at] mit.edu
+  website: https://fang-xiaolin.github.io/
+
+
+- name: Yifeng Zhu
+  profile_image: yifeng_zhu.jpg
+  email: yifeng.zhu [at] utexas.edu
+  website: https://www.cs.utexas.edu/~yifengz/
+
+- name: Yoonchang Sung
+  profile_image: yoonchang_sung.jpg
+  email: yooncs8 [at] cs.utexas.edu
+  website: https://yoonchangsung.com/
+  
+- name: Yuke Zhu
+  profile_image: yuke_zhu.jpg
+  email: yukez [at] cs.utexas.edu
+  website: https://www.cs.utexas.edu/~yukez/
+
+- name: Peter Stone
+  profile_image: peter_stone.jpg
+  email: pstone [at] cs.utexas.edu
+  website: https://www.cs.utexas.edu/~pstone/
+  
