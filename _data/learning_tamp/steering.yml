@@ -1,0 +1,19 @@
+- name: Yuke Zhu
+  profile_image: yuke_zhu.jpg
+  email: yukez [at] cs.utexas.edu
+  website: https://www.cs.utexas.edu/~yukez/
+
+- name: Peter Stone
+  profile_image: peter_stone.jpg
+  email: pstone [at] cs.utexas.edu
+  website: https://www.cs.utexas.edu/~pstone/
+
+- name: Leslie Kaebling
+  profile_iamge: leslie_kaebling.jpg
+  email: lpk [at] csail.mit.edu
+  website: http://people.csail.mit.edu/lpk/ 
+
+- name: Tom&aacute;s Lozano-P&eacute;rez
+  profile_image: tomas_lozano_perez.jpg
+  email: tlp [at] csail.mit.edu
+  website: http://people.csail.mit.edu/tlp/index.html
