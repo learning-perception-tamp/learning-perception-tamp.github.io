@@ -1,11 +1,67 @@
-- title: Keynote-Speaker 1
-  name: NAME
+- title: Invited-Speaker 1
+  name: Danfei Xu
   subtitle: Professor
   img: placeholder.jpg
   thumbnail: placeholder.jpg
   alt: Picture of TBD
   topic: Topic
-  affliation: placeholder
+  affliation: Georgia Institute of Technology
   website: https://localhost
-  description: This is where introduction goes
+  description: To be filled soon ...
+
+
+- title: Invited-Speaker 2
+  name: Leslie Kaelbling
+  subtitle: Professor
+  img: placeholder.jpg
+  thumbnail: placeholder.jpg
+  alt: Picture of TBD
+  topic: Topic
+  affliation: MIT
+  website: https://localhost
+  description: To be filled soon ...
+
+- title: Invited-Speaker 3
+  name: Shiqi Zhang
+  subtitle: Professor
+  img: placeholder.jpg
+  thumbnail: placeholder.jpg
+  alt: Picture of TBD
+  topic: Topic
+  affliation: SUNY Binghamton
+  website: https://localhost
+  description: To be filled soon ...
+
+- title: Invited-Speaker 4
+  name: Chris Paxton
+  subtitle: Professor
+  img: placeholder.jpg
+  thumbnail: placeholder.jpg
+  alt: Picture of TBD
+  topic: Topic
+  affliation: Meta AI
+  website: https://localhost
+  description: To be filled soon ...
+  
+- title: Invited-Speaker 5
+  name: David Hsu
+  subtitle: Professor
+  img: placeholder.jpg
+  thumbnail: placeholder.jpg
+  alt: Picture of TBD
+  topic: Topic
+  affliation: NUS
+  website: https://localhost
+  description: To be filled soon ...
+
+- title: Invited-Speaker 6
+  name: Andrew Davidson
+  subtitle: Professor
+  img: placeholder.jpg
+  thumbnail: placeholder.jpg
+  alt: Picture of TBD
+  topic: Topic
+  affliation: Imperial College London
+  website: https://localhost
+  description: To be filled soon ...
 
