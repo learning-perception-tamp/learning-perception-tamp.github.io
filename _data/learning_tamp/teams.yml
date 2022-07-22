@@ -1,12 +1,12 @@
-- name: Xiaolin Fang
-  profile_image: xiaolin_fang.jpg
-  email: xiaolinf [at] mit.edu
-  website: https://fang-xiaolin.github.io/
-
 - name: Yifeng Zhu
   profile_image: yifeng_zhu.jpg
   email: yifeng.zhu [at] utexas.edu
   website: https://www.cs.utexas.edu/~yifengz/
+
+- name: Xiaolin Fang
+  profile_image: xiaolin_fang.jpg
+  email: xiaolinf [at] mit.edu
+  website: https://fang-xiaolin.github.io/
 
 - name: Yoonchang Sung
   profile_image: yoonchang_sung.png
